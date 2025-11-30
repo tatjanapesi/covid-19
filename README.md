@@ -1,6 +1,6 @@
 # COVID-19 Prediction
 
-This project focuses on predicting whether patients are likely to develop a severe form of COVID-19 based on their health condition and medical indicators.
+This project focuses on predicting whether patients are likely to develop a severe form of COVID-19 based on their health condition and medical indicators. Since this project was part of a university course, results are for educational purposes only. 
 
 The objective is to support early risk assessment by applying machine learning models to patient health data.
 
@@ -53,7 +53,7 @@ The objective is to support early risk assessment by applying machine learning m
 ## Notes
 
 The dataset should contain medical indicators and patient status (e.g. demographic data, underlying health conditions, symptoms).
-Since this project was part of academic work, results are for research purposes only.
 
-   git clone https://github.com/tatjanapesi/covid-19.git
+
+  
 
